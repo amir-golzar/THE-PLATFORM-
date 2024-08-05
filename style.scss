@@ -5,13 +5,12 @@ $p: purple;
 
   padding: 0;
   &::selection{
-    color: $p;
-    background-color: rgb(58, 68, 68);
+    color:coral;
+    background-color:seagreen
   }
 }
 
 body {
-
   background-color: rgba(0, 0, 0, 0.904);
 }
 
